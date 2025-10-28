@@ -1,4 +1,4 @@
-package app.kplay
+package app.kplay.A_Elementary
 
 fun main() {
     // stała (niezmienna)

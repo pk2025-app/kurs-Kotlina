@@ -1,4 +1,4 @@
-package app.kplay
+package app.kplay.B_IfForWhenWhile
 
 fun main(){
     var kroki: Int = 0
